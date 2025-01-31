@@ -1,3 +1,7 @@
+<!--evaluación agencia demoños
+*@author $Luis Fernando Mendez Barrera
+ * @since 2025-01-30
+ * @version 1.0.0 -->
 <!DOCTYPE html>
 <html lang="es-MX">
 
@@ -13,7 +17,7 @@
 <nav class="nav nav-tabs nav-stacked">
     <a class="nav-link active" href="#">Active Link</a>
     <a class="nav-link " href="#">Link</a>
-    <a class="nav-link " href="?logout=true">Logout</a>
+    <a class="nav-link " href="?action=logout">Logout</a>
 </nav>
 <div class="container">
   <h1>Practica de prueba</h1>  
