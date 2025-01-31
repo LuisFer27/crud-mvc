@@ -1,7 +1,4 @@
-/** evaluación agencia demoños
-*@author $Luis Fernando Mendez Barrera
- * @since 2025-01-30
- * @version 1.0.0 código html que permite visualizar el inicio de sesión también se empleo bootstrap */
+<!--evaluación agencia demoños @author $Luis Fernando Mendez Barrera @since 2025-01-30 @version 1.0.0 código html que permite visualizar el inicio de sesión también se empleo bootstrap-->
 <!DOCTYPE html>
 <html lang="es-MX">
 

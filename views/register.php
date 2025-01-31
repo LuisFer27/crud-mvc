@@ -1,10 +1,4 @@
-<!--
-* evaluación agencia demoños
-*@author $Luis Fernando Mendez Barrera
- * @since 2025-01-30
- * @version 1.0.0
-
-Html que permite registrar usuarios:-->
+<!-- evaluación agencia demoños@author $Luis Fernando Mendez Barrera@since 2025-01-30 @version 1.0.0Html que permite registrar usuarios:-->
 <!DOCTYPE html>
 <html lang="es-MX">
 <head>
